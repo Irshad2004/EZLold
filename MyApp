@@ -1,0 +1,14 @@
+flask_app/
+│
+├── app.py
+├── requirements.txt
+├── templates/
+│   ├── base.html
+│   ├── index.html
+│   ├── signup.html
+│   ├── login.html
+│   ├── create_concept.html
+│   └── concept_created.html
+├── static/
+│   └── style.css
+└── vercel.json
