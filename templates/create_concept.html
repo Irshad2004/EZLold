@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block content %}
+<h1 class="my-4">Create Concept</h1>
+<form id="concept-form" method="post">
+    <div class="form-group">
+        <label for="concept">Concept:</label>
+        <input type="text" class="form-control" id="concept" name="concept" required>
+    </div>
+    <button type="submit" class="btn btn-primary">Create</button>
+</form>
+{% endblock %}
