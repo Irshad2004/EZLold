@@ -1,0 +1,27 @@
+/* Add your custom styles here */
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+footer {
+    margin-top: 20px;
+}
+
+#video-section {
+    display: none;
+    margin-top: 20px;
+}
+
+#video-section h2 {
+    margin-top: 20px;
+}
+
+#concept-video {
+    max-width: 100%;
+    height: auto;
+}
